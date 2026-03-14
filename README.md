@@ -137,3 +137,11 @@ else
 fi
 ```
 # Screenshot Terminal
+Gambar apabila input adalah 1 yakni memasukkan input baru
+![Gambar 1](foto%20terminal%20input%201.png)
+
+Gambar apabila input adalah 2 yakni menggunakan input lama untuk mengecek subdomain baru
+
+
+
+![Gambar 2](foto%20terminal%20input%202.png)
