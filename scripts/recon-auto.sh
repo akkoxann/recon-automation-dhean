@@ -1,6 +1,5 @@
 #!/bin/bash
 
-set -x
 : > ../logs/errors.log
 
 read -p "1. Input new data
