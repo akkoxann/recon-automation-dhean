@@ -1,0 +1,24 @@
+[Starting] Adding new data
+[INFO] Starting subfinder for hackerone.com
+[INFO] Done for hackerone.com !
+[INFO] Continuing . . .
+[INFO] Starting subfinder for portswigger.net
+[INFO] Done for portswigger.net !
+[INFO] Continuing . . .
+[INFO] Starting subfinder for bugcrowd.com
+[INFO] Done for bugcrowd.com !
+[INFO] Continuing . . .
+[INFO] Starting subfinder for picoctf.org
+[INFO] Done for picoctf.org !
+[INFO] Continuing . . .
+[INFO] Starting subfinder for hackthebox.com
+[INFO] Done for hackthebox.com !
+[INFO] Continuing . . .
+[SEPERATOR] ========== SEPERATING LOGS ==========
+[Starting] Check using old data
+[DATA] Using old data to check
+[INFO] Printing old data number 1
+[INFO] Printing old data number 2
+[INFO] Printing old data number 3
+[INFO] Printing old data number 4
+[INFO] Printing old data number 5
